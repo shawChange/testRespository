@@ -1,0 +1,28 @@
+{
+  "name": "shaw-test-pubulish",
+  "version": "1.0.0",
+  "description": "build gs-vue-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiantao2017/gs-vue-cli"
+  },
+  "keywords": [
+    "gs",
+    "gs-vue-cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.12.2"
+  },
+  "bin": {
+    "frontend": "bin/frontend"
+  }
+}
